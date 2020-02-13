@@ -1,0 +1,15 @@
+{
+  "name": "testcafe-test-history",
+  "version": "0.0.1",
+  "description": "testcafe history.pushstate example",
+  "main": "index.js",
+  "repository": "https://github.com/trustyoo86/testcafe-test-history.git",
+  "author": "kern.yoo <trustyoo86@gmail.com>",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "express": "^4.17.1",
+    "jquery": "^3.4.1",
+    "path": "^0.12.7"
+  }
+}
